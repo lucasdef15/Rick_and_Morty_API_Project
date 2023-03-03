@@ -1,0 +1,9 @@
+.Missing {
+  width: 100%;
+  height: 32vh;
+  color: white;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  font-size: 1.5rem;
+}

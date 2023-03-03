@@ -1,0 +1,20 @@
+.episode ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  width: max-content;
+  list-style: none;
+}
+.characters_wrapper button {
+  outline: none;
+  border: none;
+  background: steelblue;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+
+.actvy {
+  display: block;
+}

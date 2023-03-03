@@ -1,0 +1,24 @@
+.Episode_container {
+  width: 90%;
+  display: flex;
+  padding: 2rem 0 24em 0;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  position: relative;
+}
+.Episode_wrapper {
+  border: 1px solid black;
+  background: #333;
+  color: #fff;
+  padding: 2rem 1rem 2rem 1rem;
+  display: grid;
+  place-content: center;
+  gap: 0.5rem;
+  border-radius: 1rem;
+  width: 250px;
+}
+
+.grey {
+  color: #b7b6b6;
+}
