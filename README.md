@@ -32,7 +32,7 @@ This project was built using the following dependencies:
 
 ## Credits
 
-This project was created by [Your Name]. It utilizes the Rick and Morty API to fetch character and episode data.
+This project was created by Lucas Ferreira de Faria. It utilizes the Rick and Morty API to fetch character and episode data.
 
 ## License
 
